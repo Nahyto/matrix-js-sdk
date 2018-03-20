@@ -1,0 +1,17 @@
+/.jsdocbuild
+/.jsdoc
+
+node_modules
+.lock-wscript
+build/Release
+coverage
+lib-cov
+out
+reports
+/dist
+/lib
+/specbuild
+
+# version file and tarball created by 'npm pack'
+/git-revision.txt
+/matrix-js-sdk-*.tgz
